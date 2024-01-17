@@ -3,6 +3,8 @@
 ## Overview
 This repository contains a simple Android application developed using Jetpack Compose. The app demonstrates how to fetch and display data from a REST API using Retrofit, handle states with Kotlin Coroutines, and display images from URLs using the Coil library.
 
+<img src="https://github.com/sunnat629/FetchAPI/blob/main/demo.png" width="240" height="534">
+
 ## Features
 - **Jetpack Compose UI**: Modern UI design with the latest Compose toolkit.
 - **Retrofit for Network Calls**: Utilizes Retrofit for making API calls.
